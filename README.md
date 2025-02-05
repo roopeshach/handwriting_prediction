@@ -14,7 +14,6 @@ This project focuses on recognizing handwritten digits using machine learning mo
 - Python
 - NumPy, Pandas
 - Scikit-learn
-- TensorFlow/Keras (if deep learning models are used)
 - OpenCV (for image preprocessing)
 - Matplotlib & Seaborn (for visualization)
 
